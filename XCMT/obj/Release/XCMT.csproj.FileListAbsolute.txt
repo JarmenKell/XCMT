@@ -1,0 +1,12 @@
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\xbox.ico
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\xcmthelp.chm
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\XCMT.exe.config
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\XCMT.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\XCMT.pdb
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\XCMT.editor.appedit.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\XCMT.editor.settings.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\XCMT.csproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\XCMT.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\obj\Release\XCMT.pdb
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\XCMT\XCMT\bin\Release\configs.xdata
